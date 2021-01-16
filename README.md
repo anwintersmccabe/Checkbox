@@ -1,7 +1,7 @@
 # Checkbox
 A to-do list application built with PostgreSQL, Express, React, and Node.js
 ## Features
--Adding, removing, editing, and "checking off" tasks from the list and database
+- Adding, removing, editing, and "checking off" tasks from the list and database
 ## Prerequisites/Dependencies
 PostgreSQL must be installed, and a database and table for this application created. 
 ```zsh
@@ -34,7 +34,7 @@ $ npm start
 ```
 ## Contact Info
 
-```Go
+```
 name  := "Annabel Winters-McCabe"
 email := "anwintersmccabe@davidson.edu"
 ```
