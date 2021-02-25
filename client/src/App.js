@@ -5,11 +5,13 @@ import React, { Fragment } from 'react';
 
 import InputTodo from "./components/InputTodo";
 import ListTodos from "./components/ListTodos";
+import DateTime from "./components/DateTime";
 
 function App() {
   return(
     <Fragment>
       <div className="container">
+      <DateTime  />
       <InputTodo />
       <ListTodos />
       </div>
